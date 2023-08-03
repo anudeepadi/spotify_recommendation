@@ -24,9 +24,6 @@ This project builds a music recommendation engine using NLP and machine learning
 git clone https://github.com/user/music-recommender
 ```
 - Install dependencies
-```bash
-pip install -r requirements.txt
-```
 
 ### Usage
 
