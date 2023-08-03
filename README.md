@@ -35,15 +35,6 @@ pip install -r requirements.txt
 python recommend.py "Song Name" 
 ```
 
-## Contributors
-
-- [Your Name](https://github.com/yourprofile)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to modify or add any sections to this README description.
-```
-
-Please note that I've added syntax highlighting for the code blocks to improve readability, and I've also corrected the usage of backticks for the code blocks. Additionally, I've included a closing sentence to let readers know that they are welcome to modify or add any sections to the README description. Let me know if you need any further adjustments!
